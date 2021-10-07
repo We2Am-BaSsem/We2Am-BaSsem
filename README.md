@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=We2Am-BaSsem)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=We2Am-BaSsem&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
